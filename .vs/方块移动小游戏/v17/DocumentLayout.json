@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|d:\\file\\unityhub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\followpaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followpaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|d:\\file\\unityhub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|d:\\file\\unityhub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|d:\\file\\unityhub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCB0FC-5F5E-50AA-13F0-A46D1B7119EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\LevelComplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelComplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelComplete.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\LevelComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelComplete.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\LevelComplete.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelComplete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:55:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndTrigger.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\EndTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndTrigger.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\EndTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:55:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Credits.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Credits.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Credits.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Credits.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Credits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:55:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:33:11.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Credits.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Credits.cs",
+              "RelativeDocumentMoniker": "Assets\\Credits.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Credits.cs",
+              "RelativeToolTip": "Assets\\Credits.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:22:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Followpaler.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Followpaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Followpaler.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\Followpaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Followpaler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:49:06.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:48:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:49:01.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:48:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelComplete.cs",
+              "DocumentMoniker": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\LevelComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelComplete.cs",
+              "ToolTip": "D:\\file\\unityHub\\\u65B9\u5757\u79FB\u52A8\u5C0F\u6E38\u620F\\Assets\\LevelComplete.cs",
+              "RelativeToolTip": "Assets\\LevelComplete.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:35:33.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
